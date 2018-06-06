@@ -1,0 +1,40 @@
+Trial:  0
+El numero de estados 171
+El reward final -2.0
+None
+Trial:  1
+El numero de estados 436
+El reward final -2.0
+None
+Trial:  2
+El numero de estados 123
+El reward final -1.0
+None
+Trial:  3
+El numero de estados 389
+El reward final -2.0
+None
+Trial:  4
+El numero de estados 178
+El reward final -2.0
+None
+Trial:  5
+El numero de estados 775
+El reward final -2.0
+None
+Trial:  6
+El numero de estados 181
+El reward final -2.0
+None
+Trial:  7
+El numero de estados 233
+El reward final -1.0
+None
+Trial:  8
+El numero de estados 202
+El reward final -2.0
+None
+Trial:  9
+El numero de estados 1169
+El reward final -2.0
+None
