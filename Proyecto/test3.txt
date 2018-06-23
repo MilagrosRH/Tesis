@@ -1,0 +1,500 @@
+Trial:  0
+El numero de estados 337
+El reward final -2.0
+
+
+Trial:  1
+El numero de estados 56
+El reward final -2.0
+
+
+Trial:  2
+El numero de estados 915
+El reward final -2.0
+
+
+Trial:  3
+El numero de estados 655
+El reward final -2.0
+
+
+Trial:  4
+El numero de estados 425
+El reward final -2.0
+
+
+Trial:  5
+El numero de estados 1847
+El reward final -2.0
+
+
+Trial:  6
+El numero de estados 484
+El reward final -2.0
+
+
+Trial:  7
+El numero de estados 692
+El reward final -2.0
+
+
+Trial:  8
+El numero de estados 448
+El reward final -2.0
+
+
+Trial:  9
+El numero de estados 284
+El reward final -2.0
+
+
+Trial:  10
+El numero de estados 1083
+El reward final -2.0
+
+
+Trial:  11
+El numero de estados 118
+El reward final -2.0
+
+
+Trial:  12
+El numero de estados 173
+El reward final -2.0
+
+
+Trial:  13
+El numero de estados 650
+El reward final -2.0
+
+
+Trial:  14
+El numero de estados 1285
+El reward final -1.0
+
+
+Trial:  15
+El numero de estados 240
+El reward final -2.0
+
+
+Trial:  16
+El numero de estados 138
+El reward final -2.0
+
+
+Trial:  17
+El numero de estados 584
+El reward final -1.0
+
+
+Trial:  18
+El numero de estados 149
+El reward final -2.0
+
+
+Trial:  19
+El numero de estados 527
+El reward final -2.0
+
+
+Trial:  20
+El numero de estados 446
+El reward final -1.0
+
+
+Trial:  21
+El numero de estados 343
+El reward final -2.0
+
+
+Trial:  22
+El numero de estados 198
+El reward final -1.0
+
+
+Trial:  23
+El numero de estados 24
+El reward final -2.0
+
+
+Trial:  24
+El numero de estados 1719
+El reward final -2.0
+
+
+Trial:  25
+El numero de estados 65
+El reward final -2.0
+
+
+Trial:  26
+El numero de estados 380
+El reward final -2.0
+
+
+Trial:  27
+El numero de estados 62
+El reward final -1.0
+
+
+Trial:  28
+El numero de estados 154
+El reward final -2.0
+
+
+Trial:  29
+El numero de estados 26
+El reward final -2.0
+
+
+Trial:  30
+El numero de estados 336
+El reward final -2.0
+
+
+Trial:  31
+El numero de estados 464
+El reward final -2.0
+
+
+Trial:  32
+El numero de estados 84
+El reward final -2.0
+
+
+Trial:  33
+El numero de estados 351
+El reward final -2.0
+
+
+Trial:  34
+El numero de estados 4
+El reward final -2.0
+
+
+Trial:  35
+El numero de estados 414
+El reward final -2.0
+
+
+Trial:  36
+El numero de estados 1245
+El reward final -2.0
+
+
+Trial:  37
+El numero de estados 39
+El reward final -2.0
+
+
+Trial:  38
+El numero de estados 431
+El reward final -2.0
+
+
+Trial:  39
+El numero de estados 848
+El reward final -2.0
+
+
+Trial:  40
+El numero de estados 289
+El reward final -2.0
+
+
+Trial:  41
+El numero de estados 226
+El reward final -2.0
+
+
+Trial:  42
+El numero de estados 328
+El reward final -2.0
+
+
+Trial:  43
+El numero de estados 490
+El reward final -2.0
+
+
+Trial:  44
+El numero de estados 153
+El reward final -0.0
+
+
+Trial:  45
+El numero de estados 149
+El reward final -2.0
+
+
+Trial:  46
+El numero de estados 91
+El reward final -2.0
+
+
+Trial:  47
+El numero de estados 125
+El reward final -2.0
+
+
+Trial:  48
+El numero de estados 22
+El reward final -2.0
+
+
+Trial:  49
+El numero de estados 109
+El reward final -2.0
+
+
+Trial:  50
+El numero de estados 46
+El reward final -2.0
+
+
+Trial:  51
+El numero de estados 114
+El reward final -2.0
+
+
+Trial:  52
+El numero de estados 645
+El reward final -2.0
+
+
+Trial:  53
+El numero de estados 323
+El reward final -2.0
+
+
+Trial:  54
+El numero de estados 69
+El reward final -2.0
+
+
+Trial:  55
+El numero de estados 922
+El reward final -2.0
+
+
+Trial:  56
+El numero de estados 92
+El reward final -2.0
+
+
+Trial:  57
+El numero de estados 644
+El reward final -2.0
+
+
+Trial:  58
+El numero de estados 565
+El reward final -2.0
+
+
+Trial:  59
+El numero de estados 627
+El reward final -1.0
+
+
+Trial:  60
+El numero de estados 444
+El reward final -2.0
+
+
+Trial:  61
+El numero de estados 365
+El reward final -2.0
+
+
+Trial:  62
+El numero de estados 246
+El reward final -2.0
+
+
+Trial:  63
+El numero de estados 940
+El reward final -2.0
+
+
+Trial:  64
+El numero de estados 394
+El reward final -0.0
+
+
+Trial:  65
+El numero de estados 1562
+El reward final -2.0
+
+
+Trial:  66
+El numero de estados 219
+El reward final -2.0
+
+
+Trial:  67
+El numero de estados 513
+El reward final -2.0
+
+
+Trial:  68
+El numero de estados 1147
+El reward final -2.0
+
+
+Trial:  69
+El numero de estados 76
+El reward final -2.0
+
+
+Trial:  70
+El numero de estados 356
+El reward final -2.0
+
+
+Trial:  71
+El numero de estados 309
+El reward final -2.0
+
+
+Trial:  72
+El numero de estados 154
+El reward final -1.0
+
+
+Trial:  73
+El numero de estados 745
+El reward final -2.0
+
+
+Trial:  74
+El numero de estados 1203
+El reward final -2.0
+
+
+Trial:  75
+El numero de estados 866
+El reward final -2.0
+
+
+Trial:  76
+El numero de estados 108
+El reward final -2.0
+
+
+Trial:  77
+El numero de estados 544
+El reward final -2.0
+
+
+Trial:  78
+El numero de estados 473
+El reward final -2.0
+
+
+Trial:  79
+El numero de estados 169
+El reward final -2.0
+
+
+Trial:  80
+El numero de estados 403
+El reward final -2.0
+
+
+Trial:  81
+El numero de estados 789
+El reward final -2.0
+
+
+Trial:  82
+El numero de estados 76
+El reward final -2.0
+
+
+Trial:  83
+El numero de estados 1059
+El reward final -2.0
+
+
+Trial:  84
+El numero de estados 771
+El reward final -2.0
+
+
+Trial:  85
+El numero de estados 325
+El reward final -2.0
+
+
+Trial:  86
+El numero de estados 174
+El reward final -2.0
+
+
+Trial:  87
+El numero de estados 329
+El reward final -2.0
+
+
+Trial:  88
+El numero de estados 326
+El reward final -2.0
+
+
+Trial:  89
+El numero de estados 996
+El reward final -2.0
+
+
+Trial:  90
+El numero de estados 1830
+El reward final -2.0
+
+
+Trial:  91
+El numero de estados 360
+El reward final -2.0
+
+
+Trial:  92
+El numero de estados 1579
+El reward final -2.0
+
+
+Trial:  93
+El numero de estados 12
+El reward final -2.0
+
+
+Trial:  94
+El numero de estados 82
+El reward final -2.0
+
+
+Trial:  95
+El numero de estados 284
+El reward final -2.0
+
+
+Trial:  96
+El numero de estados 71
+El reward final -2.0
+
+
+Trial:  97
+El numero de estados 754
+El reward final -2.0
+
+
+Trial:  98
+El numero de estados 123
+El reward final -2.0
+
+
+Trial:  99
+El numero de estados 393
+El reward final -2.0
+
+
